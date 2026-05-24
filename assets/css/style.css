@@ -1,23 +1,23 @@
 /* ── Palette — light ── */
 :root {
-  --bg:     #fafaf8;
-  --text:   #0d0d0d;
-  --muted:  #6b6b6b;
-  --subtle: #b0b0b0;
-  --border: #e4e4e0;
-  --link:   #c9900c;
-  --accent: #c9900c;
+  --bg:     #F0F2F0;  /* ash gray tint — lightest */
+  --text:   #222823;  /* ash gray shade — darkest */
+  --muted:  #65786A;  /* ash gray shade — mid */
+  --subtle: #B2BEB5;  /* ash gray — base */
+  --border: #E0E5E1;  /* ash gray tint — second lightest */
+  --link:   #665600;  /* gold shade — readable on light bg */
+  --accent: #665600;
   --max-w:  660px;
 }
 
 /* ── Palette — dark ── */
 [data-theme="dark"] {
-  --bg:     #000000;
-  --text:   #f5f5f0;
-  --muted:  #888884;
-  --subtle: #444440;
-  --border: #222220;
-  --link:   #FFD700;
+  --bg:     #000000;  /* brand black */
+  --text:   #F0F2F0;  /* ash gray tint — lightest */
+  --muted:  #8A9C8F;  /* ash gray shade — lightest */
+  --subtle: #435046;  /* ash gray shade — mid */
+  --border: #222823;  /* ash gray shade — darkest */
+  --link:   #FFD700;  /* gold — base */
   --accent: #FFD700;
 }
 

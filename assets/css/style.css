@@ -178,6 +178,47 @@ article time {
   margin-bottom: 2rem;
 }
 
+/* ── Related posts ── */
+.related-posts {
+  margin-top: 3rem;
+  padding-top: 2rem;
+  border-top: 1px solid var(--border);
+}
+
+.related-posts h2 {
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  margin-bottom: 0.75rem;
+}
+
+.related-posts ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.related-posts li {
+  padding: 0.5rem 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.related-posts li:first-child {
+  border-top: 1px solid var(--border);
+}
+
+.related-posts a {
+  color: var(--text);
+  font-size: 0.95rem;
+}
+
+.related-posts a:hover {
+  color: var(--link);
+  text-decoration: none;
+}
+
 /* ── Footer ── */
 footer {
   max-width: var(--max-w);

@@ -3,7 +3,7 @@ layout: default
 title: ""
 ---
 
-Hola, soy Cristhian. En algunos otros lugares del Internet también casafuego. Escribo sobre publicidad, creatividad y las cosas que me interesan.
+Hola, soy Cristhian. Acá escribo sobre publicidad, ideas y otras cosas que me interesan. 
 
 ---
 

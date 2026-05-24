@@ -7,6 +7,15 @@ Hola, soy Cristhian. Acá escribo de publicidad, ideas y otras cosas que me inte
 
 ---
 
+## Temas
+
+<p class="tag-cloud">
+{% assign all_tags = site.posts | map: "tags" | join: "," | split: "," | uniq | sort %}
+{% for tag in all_tags %}<a href="/temas/{{ tag | slugify }}/">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}
+</p>
+
+---
+
 ## Posts
 
 <ul class="post-list">
@@ -17,12 +26,3 @@ Hola, soy Cristhian. Acá escribo de publicidad, ideas y otras cosas que me inte
   </li>
 {% endfor %}
 </ul>
-
----
-
-## Temas
-
-<p class="tag-cloud">
-{% assign all_tags = site.posts | map: "tags" | join: "," | split: "," | uniq | sort %}
-{% for tag in all_tags %}<a href="/temas/{{ tag | slugify }}/">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}
-</p>

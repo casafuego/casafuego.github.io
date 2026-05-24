@@ -171,15 +171,18 @@ pre code { background: none; padding: 0; }
   justify-content: space-between;
   align-items: baseline;
   gap: 1rem;
-  padding: 0.6rem 0;
+  padding: 0.2rem 0;
 }
 
 .post-list a {
   color: var(--text);
   font-size: 0.95rem;
+  text-decoration: underline;
+  text-decoration-color: var(--border);
+  text-underline-offset: 3px;
 }
 
-.post-list a:hover { color: var(--link); text-decoration: underline; text-underline-offset: 3px; }
+.post-list a:hover { color: var(--link); text-decoration-color: var(--link); }
 
 .post-date {
   font-size: 0.85rem;

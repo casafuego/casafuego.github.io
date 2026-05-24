@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "_posts/2016-07-12-Por qué me gustan los dinosaurios.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "2016-07-12-Por qué me gustan los dinosaurios"
             }
           }
         ]
@@ -183,8 +183,8 @@
   },
   "active": "08dfa26306dddc24",
   "lastOpenFiles": [
-    "now.md",
     "index.md",
+    "now.md",
     "about.md",
     "_posts/2016-07-12-Mi poema favorito.md",
     "_layouts/tag.html",

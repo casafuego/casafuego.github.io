@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ¿Por qué me gustan los dinosaurios?
-date: 2016-12-07
+date: 2015-12-04
 tags:
   - vida
 ---

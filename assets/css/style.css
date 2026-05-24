@@ -178,6 +178,32 @@ article time {
   margin-bottom: 2rem;
 }
 
+/* ── Tag cloud ── */
+.tag-cloud {
+  line-height: 2;
+  color: var(--muted);
+}
+
+.tag-cloud a {
+  color: var(--text);
+  font-size: 0.95rem;
+  text-decoration: underline;
+  text-decoration-color: var(--border);
+  text-underline-offset: 3px;
+}
+
+.tag-cloud a:hover {
+  color: var(--link);
+  text-decoration-color: var(--link);
+}
+
+.tag-title {
+  font-size: 1rem;
+  font-weight: 500;
+  color: var(--muted);
+  margin-bottom: 1.5rem;
+}
+
 /* ── Related posts ── */
 .related-posts {
   margin-top: 3rem;

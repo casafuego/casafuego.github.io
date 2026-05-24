@@ -8,6 +8,17 @@ markdown: kramdown
 kramdown:
   input: GFM
 
+plugins:
+  - jekyll-archives
+
+jekyll-archives:
+  enabled:
+    - tags
+  layouts:
+    tag: tag
+  permalinks:
+    tag: /temas/:name/
+
 exclude:
   - Gemfile
   - Gemfile.lock

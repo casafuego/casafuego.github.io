@@ -17,3 +17,12 @@ Hola, soy Cristhian. En algunos otros lugares del Internet también casafuego. E
   </li>
 {% endfor %}
 </ul>
+
+---
+
+## Temas
+
+<p class="tag-cloud">
+{% assign all_tags = site.posts | map: "tags" | join: "," | split: "," | uniq | sort %}
+{% for tag in all_tags %}<a href="/temas/{{ tag | slugify }}/">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}
+</p>

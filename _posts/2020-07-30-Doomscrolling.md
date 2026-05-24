@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Doomscrolling - Caos adictivo
+title: Doomscrolling | Caos adictivo
 date: 2020-07-30
 tags:
   - tecnología

@@ -166,9 +166,9 @@ pre code { background: none; padding: 0; }
 
 .post-list li {
   display: flex;
-  justify-content: space-between;
+  justify-content: flex-start;
   align-items: baseline;
-  gap: 1rem;
+  gap: 1.5rem;
   padding: 0.2rem 0;
 }
 

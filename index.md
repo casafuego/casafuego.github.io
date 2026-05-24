@@ -21,8 +21,8 @@ Hola, soy Cristhian. Acá escribo de publicidad, ideas y otras cosas que me inte
 <ul class="post-list">
 {% for post in site.posts %}
   <li>
-    <a href="{{ post.url }}">{{ post.title }}</a>
     <span class="post-date">{{ post.date | date: "%Y-%m-%d" }}</span>
+    <a href="{{ post.url }}">{{ post.title }}</a>
   </li>
 {% endfor %}
 </ul>

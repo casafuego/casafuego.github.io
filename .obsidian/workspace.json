@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "about.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "about"
@@ -183,12 +183,12 @@
   },
   "active": "08dfa26306dddc24",
   "lastOpenFiles": [
-    "index.md",
+    "_posts/2020-07-30-Doomscrolling.md",
     "about.md",
+    "index.md",
     "_posts/2016-07-12-Por qué me gustan los dinosaurios.md",
     "now.md",
     "_posts/2016-07-12-Mi poema favorito.md",
-    "_posts/2020-07-30-Doomscrolling.md",
     "_layouts/tag.html",
     "_posts/2026-05-23-bienvenida.md",
     "_posts/2026-05-23-Prueba de contenido.md",

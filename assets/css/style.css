@@ -14,9 +14,9 @@
 [data-theme="dark"] {
   --bg:     #000000;  /* brand black */
   --text:   #F0F2F0;  /* ash gray tint — lightest */
-  --muted:  #8A9C8F;  /* ash gray shade — lightest */
-  --subtle: #435046;  /* ash gray shade — mid */
-  --border: #222823;  /* ash gray shade — darkest */
+  --muted:  #F0F2F0;  /* ash gray tint — lightest */
+  --subtle: #F0F2F0;  /* ash gray tint — lightest */
+  --border: #65786A;  /* ash gray shade — mid */
   --link:   #FFD700;  /* gold — base */
   --accent: #FFD700;
 }

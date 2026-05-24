@@ -3,7 +3,7 @@ layout: default
 title: ""
 ---
 
-Hola, soy Cristhian. Acá escribo sobre publicidad, ideas y otras cosas que me interesan. 
+Hola, soy Cristhian. Acá escribo de publicidad, ideas y otras cosas que me interesan. 
 
 ---
 

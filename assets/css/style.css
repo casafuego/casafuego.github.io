@@ -271,4 +271,13 @@ footer {
   border-top: 1px solid var(--border);
   font-size: 0.85rem;
   color: var(--subtle);
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+footer a {
+  color: var(--subtle);
+  text-decoration: underline;
+  text-underline-offset: 3px;
 }

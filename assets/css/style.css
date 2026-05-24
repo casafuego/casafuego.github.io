@@ -10,16 +10,29 @@
 }
 
 /* ── Flexoki palette — dark ── */
-@media (prefers-color-scheme: dark) {
-  :root {
-    --bg:     #100f0f;
-    --text:   #fffcf0;
-    --muted:  #878580;
-    --subtle: #575653;
-    --border: #282726;
-    --link:   #4385be;
-  }
+[data-theme="dark"] {
+  --bg:     #100f0f;
+  --text:   #fffcf0;
+  --muted:  #878580;
+  --subtle: #575653;
+  --border: #282726;
+  --link:   #4385be;
 }
+
+/* ── Theme toggle button ── */
+#theme-toggle {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  color: var(--muted);
+  display: flex;
+  align-items: center;
+  line-height: 1;
+}
+
+#theme-toggle:hover { color: var(--text); }
+#theme-toggle svg { display: block; }
 
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 

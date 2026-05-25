@@ -151,13 +151,13 @@ blockquote {
 code {
   font-family: 'IBM Plex Mono', monospace;
   font-size: 0.875em;
-  background: var(--border);
+  background: var(--code-bg);
   padding: 0.15em 0.35em;
   border-radius: 3px;
 }
 
 pre {
-  background: var(--border);
+  background: var(--code-bg);
   padding: 1rem;
   border-radius: 4px;
   overflow-x: auto;

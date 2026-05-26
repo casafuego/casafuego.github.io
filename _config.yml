@@ -1,7 +1,15 @@
 title: Cristhian Fuentes
 description: Notas, ideas y proyectos.
-url: ""
+url: "https://casafuego.github.io"
 baseurl: ""
+
+author:
+  name: Cristhian Fuentes
+
+twitter:
+  username: casafuego
+
+logo: /assets/img/og-default.png
 permalink: /:title/
 
 markdown: kramdown
@@ -10,6 +18,8 @@ kramdown:
 
 plugins:
   - jekyll-archives
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 jekyll-archives:
   enabled:

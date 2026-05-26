@@ -5,6 +5,7 @@ date: 2020-07-30
 tags:
   - tecnología
   - vida
+description: ""
 ---
 _"Todo está mal.”_ Cuando logramos salir a la superficie después de una fría inmersión en redes sociales y noticias, _todo está mal_. El contenido que consumimos intensamente durante esos minutos nos dice que _todo está mal_. Y nos hacemos adictos a que todo esté mal. 
 

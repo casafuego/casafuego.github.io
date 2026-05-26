@@ -4,7 +4,7 @@ title: ¿Por qué me gustan los dinosaurios?
 date: 2015-12-04
 tags:
   - vida
-description: ""
+description: Siempre invento una respuesta distinta, acá va una
 ---
 Mucha gente me pregunta por qué tengo figuras de dinosaurios en la casa, oficina, carro y cualquier espacio posible. Siempre invento una respuesta distinta, ésta es una.  
 

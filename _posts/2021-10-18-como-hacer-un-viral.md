@@ -16,7 +16,7 @@ Admito que sí he recibido solicitudes directas de clientes para hacer virales. 
 
 Fuera del ámbito de la publicidad, tuve una experiencia en 2012 que fue la manera más orgánica de ser testigo de cómo un video se hace viral. En ese momento trabajaba en una agencia, y aprecié el comportamiento de este contenido casi como si lo estuviera analizando en un laboratorio.
 
-El video en cuestión es el Superman Tico, titulado en Youtube como ["SUPER PIOLA TICO"](https://www.youtube.com/watch?v=yq3DRaqMl3E). A la fecha cuenta con más de dos millones de visitas.
+El video en cuestión es el Superman Tico, titulado en Youtube como ["SUPER PIOLA TICO"](https://www.youtube.com/watch?v=yq3DRaqMl3E){:target="_blank" rel="noopener noreferrer"}. A la fecha cuenta con más de dos millones de visitas.
 
 El video me lo compartió una persona cercana, quien lo recibió un par de días antes por parte de la propia persona que lo filmó y subió a Youtube. En ese momento tenía apenas unas diez reproducciones: un simple video de recuerdo familiar, algo gracioso que había quedado guardado en cámara.
 

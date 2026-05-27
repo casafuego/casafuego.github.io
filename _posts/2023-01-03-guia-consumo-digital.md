@@ -10,7 +10,7 @@ tags:
 description: La rutina que me ayuda a navegar sin hundirme
 ---
 
-Varias personas me escribieron luego de publicar *Doomscrolling: caos adictivo*. La mayoría de conversaciones nos llevaba a la reflexión de que es fácil convertirse en víctima del doomscrolling porque carecemos de rutina o buenas prácticas de consumo de contenido digital. Como respuesta, decidí escribir estos párrafos con el objetivo de compartir la rutina que me ha funcionado.
+Varias personas me escribieron luego de publicar [*Doomscrolling: caos adictivo*](/doomscrolling). La mayoría de conversaciones nos llevaba a la reflexión de que es fácil convertirse en víctima del doomscrolling porque carecemos de rutina o buenas prácticas de consumo de contenido digital. Como respuesta, decidí escribir estos párrafos con el objetivo de compartir la rutina que me ha funcionado.
 
 Empecé a tomar acciones con respecto a mi consumo de contenido por ahí del 2016. Una época en la que, mientras usaba el teléfono, tenía la sensación de ser atrapado por una especie de arena movediza que drenaba mi energía y malgastaba mi tiempo. Entonces entendí que el orden es un concepto que aplica a todas las áreas de la vida. Y sí, el espacio digital es parte de nuestra vida, por lo que merece atención.
 
@@ -24,7 +24,7 @@ Lo primero es tener presente que cuando entro a redes sociales, nunca sabré con
 
 En el caso de los boletines, hago un repaso rápido y si hay artículos que requieran más de un minuto de lectura, guardo los links en la Lista de Lecturas del navegador. Recomiendo evitar al máximo acumular pestañas abiertas: eso las hará difícil de encontrar y probablemente afectará el rendimiento del dispositivo.
 
-Uso [Feedly](https://feedly.com) para organizar revistas, blogs, periódicos y sitios web. Su versión gratuita ofrece las funcionalidades necesarias: categorizar tipos de medios, guardar para después y archivar artículos por categorías.
+Uso [Feedly](https://feedly.com){:target="_blank" rel="noopener noreferrer"} para organizar revistas, blogs, periódicos y sitios web. Su versión gratuita ofrece las funcionalidades necesarias: categorizar tipos de medios, guardar para después y archivar artículos por categorías.
 
 Con estos dos primeros pasos me garantizo saber qué tipo de temas voy a consumir. Así evito lanzarme de cabeza en una arena movediza donde podría encontrar cualquier temática a la libre.
 
@@ -64,8 +64,8 @@ Cada persona encontrará el método que mejor le funcione según su realidad inm
 
 ## Algunas herramientas
 
-- [Feedly](https://feedly.com) — curación de contenidos
-- [Pocket](https://getpocket.com) — guardar y organizar links
+- [Feedly](https://feedly.com){:target="_blank" rel="noopener noreferrer"} — curación de contenidos
+- [Pocket](https://getpocket.com){:target="_blank" rel="noopener noreferrer"} — guardar y organizar links
 - Lista de Lectura del navegador
 - Evernote, Notes, Google Keep o cualquiera que permita tomar notas
 - La función "Guardar para después" de cualquier red social

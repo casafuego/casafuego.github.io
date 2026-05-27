@@ -16,7 +16,7 @@ De ser el tope de línea, ese teléfono pasará a ser lento en cuestión de mese
 
 Los exponenciales avances tecnológicos justifican de alguna manera que los dispositivos requieran más poder. Tengo claro que mi computadora de hace diez años sería incapaz de correr fluidamente el sistema operativo que uso hoy. Lo mismo con las cámaras y teléfonos. ¿Pero tiene que ser así con todo?
 
-Suele suceder que estas decisiones estén en nuestra billetera. Podemos hacer esfuerzos, que primero tienen que ver con darnos cuenta de lo que realmente necesitamos, sacarle todo el provecho a las herramientas y de ser necesario aprender cómo repararlas. No en vano el movimiento [Right to Repair](https://www.ifixit.com/Right-to-Repair/Intro) esté cobrando importancia.
+Suele suceder que estas decisiones estén en nuestra billetera. Podemos hacer esfuerzos, que primero tienen que ver con darnos cuenta de lo que realmente necesitamos, sacarle todo el provecho a las herramientas y de ser necesario aprender cómo repararlas. No en vano el movimiento [Right to Repair](https://www.ifixit.com/Right-to-Repair/Intro){:target="_blank" rel="noopener noreferrer"} esté cobrando importancia.
 
 Pero es una lucha. Y sí lo es en esos términos porque algunos fabricantes diseñan productos que poco tienen qué envidiar a una caja fuerte. Claro está que se trata de tener control sobre el producto y la calidad. Pero a un alto costo.
 

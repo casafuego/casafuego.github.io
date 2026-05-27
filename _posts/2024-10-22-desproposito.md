@@ -8,7 +8,7 @@ tags:
   - estrategia
 description: El propósito es el negocio. El negocio es el propósito.
 ---
-Mucho se critica a las marcas que buscan "salvar el mundo", especialmente en época de festivales publicitarios, donde estos mensajes abundan.
+A las marcas que buscan "salvar el mundo", especialmente en época de festivales publicitarios, donde estos mensajes abundan.
 
 Tal vez el problema está en que muchas marcas separan, casi en polos opuestos, el propósito y el negocio. Así, el propósito de marca se convierte en un discurso vacío y su ejecución un accesorio, una herramienta más.
 

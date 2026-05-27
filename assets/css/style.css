@@ -1,6 +1,6 @@
 /* ── Flexoki — https://stephango.com/flexoki ── */
 /* Base: paper #FFFCF0 · black #100F0F                          */
-/* Accent: red-400 #D14D41 (light) · red-400 #D14D41 (dark)    */
+/* Accent: red-400 #D14D41 (light) · yellow-400 #D0A215 (dark) */
 
 :root {
   /* Flexoki light */
@@ -22,8 +22,8 @@
   --muted:    #B7B5AC;  /* flexoki base-300 */
   --subtle:   #9F9D96;  /* flexoki base-400 */
   --border:   #403E3C;  /* flexoki base-800 */
-  --link:     #D14D41;  /* flexoki red-400 — contraste 4.8:1 sobre negro */
-  --accent:   #D14D41;  /* flexoki red-400 */
+  --link:     #D0A215;  /* flexoki yellow-400 */
+  --accent:   #D0A215;  /* flexoki yellow-400 */
   --code-bg:  #282726;  /* flexoki base-900 */
 }
 

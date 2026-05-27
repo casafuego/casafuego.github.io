@@ -7,6 +7,7 @@ tags:
   - publicidad
   - agencia
   - creatividad
+  - ideas
 description: El génesis de MadGroup
 ---
 Uno sabe que tiene una buena idea cuando, además de emoción, siente algo de miedo, o incluso mucho. Por lo general, esto lo generan las ideas innovadoras, esas grandes apuestas que implican lidiar con riesgo e incertidumbre. No es un camino para cobardes.

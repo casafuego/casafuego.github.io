@@ -9,7 +9,8 @@ Publicista costarricense, Director General de [ORSON Agencia Digital](https://ww
 
 Puede suscribirse a mi lista de correo o seguirme en: 
 - **X:** [@casafuego](https://x.com/casafuego){:target="_blank" rel="noopener noreferrer"}
-- **LinkedIn:** [@casafuego](https://www.linkedin.com/in/cristhianfuentes/){:target="_blank" rel="noopener noreferrer"}
+- **LinkedIn:** [@cristhianfuentes](https://www.linkedin.com/in/cristhianfuentes/){:target="_blank" rel="noopener noreferrer"}
+- **Bluesky:** [@casafuego.bsky.social](https://bsky.app/profile/casafuego.bsky.social){:target="_blank" rel="noopener noreferrer"}
 
 Soy un entusiasta del *marketing digital* y apasionado por las infinitas posibilidades que tiene la *publicidad* para impactar en los negocios y la sociedad.
 

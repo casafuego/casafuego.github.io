@@ -11,14 +11,12 @@
             "id": "08dfa26306dddc24",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "about.md",
-                "mode": "source",
-                "source": false
+                "file": "assets/img/favicon.png"
               },
-              "icon": "lucide-file",
-              "title": "about"
+              "icon": "lucide-image",
+              "title": "favicon"
             }
           }
         ]
@@ -183,15 +181,15 @@
   },
   "active": "08dfa26306dddc24",
   "lastOpenFiles": [
-    "_posts/2016-07-12-Mi poema favorito.md",
+    "assets/img/og-default.png",
     "assets/img/favicon.png",
+    "about.md",
+    "_posts/2016-07-12-Mi poema favorito.md",
     "assets/img/casafuego-favicon.png",
     "_posts/2020-07-30-Doomscrolling.md",
     "_posts/2016-07-12-Por qué me gustan los dinosaurios.md",
     "assets/img/og-default.png_1",
     "index.md",
-    "about.md",
-    "assets/img/og-default.png",
     "now.md",
     "assets/img/casafuego-seo-banner.png",
     "assets/img",

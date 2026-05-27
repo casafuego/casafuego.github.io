@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "_posts/2016-07-12-Mi poema favorito.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "2016-07-12-Mi poema favorito"
             }
           }
         ]
@@ -183,10 +183,10 @@
   },
   "active": "08dfa26306dddc24",
   "lastOpenFiles": [
+    "index.md",
     "about.md",
     "assets/img/og-default.png",
     "now.md",
-    "index.md",
     "_posts/2016-07-12-Por qué me gustan los dinosaurios.md",
     "_posts/2016-07-12-Mi poema favorito.md",
     "_posts/2020-07-30-Doomscrolling.md",

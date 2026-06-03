@@ -5,7 +5,6 @@ date: 2023-11-01
 slug: madison-diez
 tags:
   - publicidad
-  - agencia
   - creatividad
   - ideas
 description: El génesis de MadGroup

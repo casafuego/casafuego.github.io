@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2021-05-07-navegar-en-internet.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2021-05-07-navegar-en-internet"
+              "title": "index"
             }
           }
         ]
@@ -181,13 +181,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d3fa2be421cdc2ee",
+  "active": "08dfa26306dddc24",
   "lastOpenFiles": [
+    "now.md",
+    "about.md",
+    "404.md",
+    "_posts/2021-05-07-navegar-en-internet.md",
     "CNAME",
     "_posts/2021-11-08-qr-codes-y-publicidad.md",
-    "_posts/2021-05-07-navegar-en-internet.md",
-    "about.md",
-    "now.md",
     "index.md",
     "_posts/2024-10-22-desproposito.md",
     "_posts/2023-11-01-diez-anos-de-madison.md",

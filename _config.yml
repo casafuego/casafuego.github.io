@@ -20,6 +20,7 @@ plugins:
   - jekyll-archives
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-feed
 
 jekyll-archives:
   enabled:

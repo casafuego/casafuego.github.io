@@ -8,15 +8,13 @@ tags:
   - estrategia
 description: Qué implica estar conectados
 ---
-La primera vez que conocí Internet fue en el Papalote Museo del Niño de México. Corría el año 2000 y yo tenía once. Gracias a un concurso académico de la Embajada de México en Costa Rica, pude viajar como representante de la escuela pública a la que asistía. Yo nunca había visto una computadora conectarse a eso que llamaban Internet, *"navegar"* era el término que se usaba para referirse a ese privilegio.
+La primera vez que conocí Internet fue en el Papalote Museo del Niño de México. Corría el año 2000 y yo tenía once. Gracias a un concurso académico de la Embajada de México en Costa Rica, pude viajar como representante de la escuela pública a la que asistía. Nunca había visto una computadora conectada a Internet. *"Navegar"* era el término que se usaba para referirse a ese privilegio.
 
 En ese tiempo Internet era tal novedad, que tenía su propia sala dedicada. El guía del museo nos invitó a sentarnos frente a una gran computadora blanca, y aprovechó los minutos que le tomó a la máquina conectarse para explicarnos la ciencia detrás de lo que estábamos por presenciar.
 
 Y después de aquella expectativa, lentamente apareció frente a mí el portal de noticias de Yahoo en español. *¡Internet! ¡Estoy navegando! Aló, ma, hoy estuve en Internet.* Aquello me pareció fascinante, tanto que veinte años después, se conserva como uno de mis recuerdos más vívidos.
 
-El tiempo pasa y hemos sido testigos de la evolución del Internet y lo que implica estar conectados. Desde el boom de los sitios web, hasta la explosión de las redes sociales y la omnipresencia de los teléfonos inteligentes.
-
-Por la simple razón de que Internet está en todas partes, hoy quienes trabajamos en comunicación tenemos más retos y oportunidades que nunca.
+El tiempo pasa y hemos sido testigos de la evolución del Internet y lo que implica estar conectados. El boom de los sitios web, la explosión de las redes sociales y la omnipresencia de los teléfonos inteligentes. Y como Internet está en todas partes, hoy quienes trabajamos en comunicación tenemos más retos y oportunidades que nunca.
 
 Lo que hace unos años pronosticaban como el Internet de las Cosas, ya es una realidad. Vean a su alrededor, quizá a su muñeca si tienen un reloj inteligente, o su televisor, asistente de voz, cámaras de seguridad y otros artefactos, y dénse cuenta que la mayoría funcionan conectados.
 

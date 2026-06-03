@@ -6,6 +6,7 @@ slug: como-hacer-un-viral
 tags:
   - publicidad
   - ideas
+  - cultura
 description: La historia de un video viral que tuve en mis manos antes de que nadie lo supiera
 ---
 

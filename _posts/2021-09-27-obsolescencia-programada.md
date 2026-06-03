@@ -9,7 +9,6 @@ tags:
   - ideas
 description: Las ideas también tienen fecha de vencimiento
 ---
-
 En la casa de mi abuela están las ollas, electrodomésticos y muebles que conozco desde siempre. Son los que vi cuando era niño y que sigo viendo años después cuando la visito. Todos funcionan. En cambio, sé que el dispositivo desde el que están leyendo esto tiene sus días contados. Es así desde el momento en que fue concebido.
 
 De ser el tope de línea, ese teléfono pasará a ser lento en cuestión de meses. Y nada es para siempre, ya lo sabemos, el problema está en que el tiempo de vida se limite cada vez más. La obsolescencia programada es algo sabido en la tecnología, pero he estado pensando en qué tanto también esto aplica para los contenidos e ideas que creamos.

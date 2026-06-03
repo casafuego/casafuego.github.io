@@ -6,6 +6,7 @@ slug: qr-codes-y-publicidad
 tags:
   - publicidad
   - creatividad
+  - tecnología
 description: La historia del recurso que tuvo que esperar una pandemia para despegar
 ---
 

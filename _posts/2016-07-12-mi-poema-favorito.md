@@ -4,10 +4,11 @@ title: Mi poema favorito
 date: 2016-12-07
 slug: mi-poema-favorito
 tags:
-  - tecnología
   - ai
   - literatura
   - música
+  - tecnología
+  - cultura
 description: Bob Dylan compite contra robots
 ---
 El 13 de octubre del 2016 la Academia Sueca otorgó el Nobel de Literatura a Bob Dylan. Dinamita pura, las redes sociales explotaron en rechazo a quien para muchos no es un poeta. ¿Pero quién es un poeta?

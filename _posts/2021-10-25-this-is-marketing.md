@@ -10,9 +10,9 @@ tags:
 description: Notas del libro de Seth Godin sobre lo que realmente es el marketing
 ---
 
-Una de las ideas más poderosas que he leído acerca del marketing la escribió Seth Godin al referirse a su definición de la disciplina:
+Seth Godin da una de las ideas más poderosas para pensar el marketing como disciplina:
 
-*Antes de pagar por anuncios, empezá con la idea que te hará ganar el privilegio de hablarle a personas que te extrañarán si algún día no estás.*
+*Antes de pagar por anuncios, empezá con la idea que dará el privilegio de hablar a personas que te extrañarán si algún día no estás.*
 
 Pensar en un nuevo tipo de métricas: ¿quién te extrañará si te vas? ¿Quién se quejará si algún día no recibe tu contenido? Poderoso. Simple. Como las buenas ideas.
 
